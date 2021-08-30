@@ -13,3 +13,8 @@
 `git checkout <nome-da-branch>`
 ### Realizar merge
 `git merge <nome-da-branch>`
+### Configurar cache do git
+add cache <br>
+`git config --global credential.helper cache` <br>
+remover cache <br>
+`git config --global --unset credential.helper` 

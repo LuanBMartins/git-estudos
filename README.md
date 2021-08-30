@@ -5,6 +5,7 @@
 
 Verificar Histórico
 `git reflog`
-</br>
 Navegar entre versões
 `git reset --hard <versão>`
+Criar branch
+`git branch <nome-da-branch>`

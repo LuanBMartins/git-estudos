@@ -1,7 +1,7 @@
 # git-estudos
 
 
-#Comandos
+# Comandos
 
-##Verificar Histórico
-'git reflog'
+## Verificar Histórico
+`git reflog`

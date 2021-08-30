@@ -3,5 +3,8 @@
 
 # Comandos
 
-## Verificar Histórico
+Verificar Histórico
 `git reflog`
+</br>
+Navegar entre versões
+`git reset --hard <versão>`

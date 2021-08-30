@@ -11,5 +11,5 @@
 `git branch <nome-da-branch>`
 ### Navegar pelas branch
 `git checkout <nome-da-branch>`
-### Realiar merge
+### Realizar merge
 `git merge <nome-da-branch>`

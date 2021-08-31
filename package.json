@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/LuanBMartins/git-estudos/issues"
   },
-  "homepage": "https://github.com/LuanBMartins/git-estudos#readme"
+  "homepage": "https://github.com/LuanBMartins/git-estudos#readme",
+  "devDependencies": {
+    "husky": "^7.0.2"
+  },
+   "husky": {
+    "hooks": {
+      "pre-commit": "git status"
+   }
 }

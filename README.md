@@ -12,14 +12,20 @@
 ### Criar branch
 `git branch <nome-da-branch>`
 
+###  Para excluir um branch local no Git
+`git branch -d <branch-name>`
+
 ### Navegar pelas branch
 `git checkout <nome-da-branch>`
 
 ### Realizar merge
 `git merge <nome-da-branch>`
 
-### Reverter commit 
+### Reverter para outro commit 
 `git revert <id>`
+
+### Resetar commit
+`git reset <versão>`
 
 ### Configurar cache do git
 add cache <br>

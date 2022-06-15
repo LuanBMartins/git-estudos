@@ -27,6 +27,10 @@
 ### Resetar commit
 `git reset <versão>`
 
+### Gráfico de branch
+`git log --graph`
+
+
 ### Configurar cache do git
 add cache <br>
 `git config --global credential.helper cache` <br>

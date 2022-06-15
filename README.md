@@ -30,6 +30,9 @@
 ### Gráfico de branch
 `git log --graph`
 
+### TESTE
+`git log --graph`
+
 
 ### Configurar cache do git
 add cache <br>
